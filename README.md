@@ -27,9 +27,9 @@ L'autore non garantisce la sicurezza o il corretto funzionamento del codice e de
 
 ## Requisiti
 
-- Scheda ESP32-S3 Freenove CAM compatibile.
+- <a href="https://link.amazon/B08VNdrYF" target="_blank"><img alt="Arduino compatibile" src="https://img.shields.io/badge/🔗-Scheda_ESP32_S3_Freenove_CAM_compatibile-007ec6">
+- <a href="https://link.amazon/B08VNdrYF" target="_blank"><img alt="Arduino compatibile" src="https://img.shields.io/badge/🔗-Scheda_microSD-007ec6">
 - Arduino IDE con ESP32 core di Espressif.
-- Scheda microSD (opzionale).
 
 ## Configurazione
 
