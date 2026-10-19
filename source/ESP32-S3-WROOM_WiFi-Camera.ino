@@ -27,8 +27,8 @@
 #include <time.h>
 
 // ====================== CONFIGURAZIONE UTENTE ======================
-const char* WIFI_SSID = "**********";
-const char* WIFI_PASS = "*************************";
+const char* WIFI_SSID = "IL_TUO_WIFI";
+const char* WIFI_PASS = "LA_TUA_PASSWORD";
 
 #define WEB_PORT     8080            // Porta pagina web + API
 #define STREAM_PORT  (WEB_PORT + 1)  // Porta del video MJPEG (8081)
