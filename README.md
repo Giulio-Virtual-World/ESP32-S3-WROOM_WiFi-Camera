@@ -36,6 +36,5 @@ L'autore non garantisce la sicurezza o il corretto funzionamento del codice e de
 1. Scaricare il [codice del progetto](./source/ESP32-S3-WROOM_WiFi-Camera.ino)
 2. Aprire il progetto nell'Arduino IDE.
 3. Inserire le proprie credenziali Wi-Fi nel codice.
-4. Selezionare la scheda e le impostazioni hardware appropriate.
-5. Compilare e caricare il firmware.
-6. Aprire il Serial Monitor per individuare l'indirizzo IP e le porte utilizzate.
+4. Compilare e caricare il firmware.
+5. Aprire il Serial Monitor per individuare l'indirizzo IP e le porte utilizzate.
